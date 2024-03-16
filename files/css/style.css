@@ -1,0 +1,17 @@
+body{
+    background-color: #00224D;
+    color: #FF204E;
+}
+p{
+    font-family: Arial;
+    color: #A0153E;
+    font-size: 20px;
+    border: #00224D solid 5px;
+}
+
+.class1{
+    background-color: #FFFDCB;
+    font-size: 35px;
+    font-family: Alfabetix;
+    color: black;
+}
